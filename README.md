@@ -18,6 +18,21 @@ The experience transforms raw financial figures into an intuitive narrative, hel
 
 ---
 
+## Screenshots
+<img width="1687" height="996" alt="image" src="https://github.com/user-attachments/assets/7d9551c3-f2f3-4cec-8188-cd9fd5678e4d" />
+<img width="1723" height="1052" alt="image" src="https://github.com/user-attachments/assets/f0e03ec5-fc83-4967-9347-011da68ce79a" />
+<img width="1765" height="1018" alt="image" src="https://github.com/user-attachments/assets/6819803f-de7d-45e0-9e31-6b3efb9ee1a9" />
+<img width="1671" height="1016" alt="image" src="https://github.com/user-attachments/assets/7421c8fc-71e9-4658-b985-b046dedf75ad" />
+<img width="1617" height="1017" alt="image" src="https://github.com/user-attachments/assets/402ee4fb-23df-4892-809c-77283fc5c5e8" />
+<img width="1635" height="1018" alt="image" src="https://github.com/user-attachments/assets/3bf93718-7d00-4f48-b202-668b5adb4cad" />
+<img width="1617" height="1020" alt="image" src="https://github.com/user-attachments/assets/9cdde711-dd2d-4741-818c-7f02971c74ac" />
+<img width="1517" height="1023" alt="image" src="https://github.com/user-attachments/assets/e282dc7f-b062-42e6-bb2e-92512f0366bd" />
+<img width="1726" height="1013" alt="image" src="https://github.com/user-attachments/assets/97195519-5068-408b-a3bf-974e66bb93d9" />
+<img width="1805" height="505" alt="image" src="https://github.com/user-attachments/assets/fd7c7709-0de1-4540-ba0e-c449b60f4573" />
+
+---
+
+
 ## Concept
 
 The product-thinking behind the Fermor homepage guides users through three natural phases:
