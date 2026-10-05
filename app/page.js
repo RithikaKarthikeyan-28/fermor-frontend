@@ -1,7 +1,10 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import GoalSelector from "@/components/GoalSelector";
 import Journey from "@/components/Journey";
+import FutureVisualization from "@/components/FutureVisualization";
 import Progress from "@/components/Progress";
+import NextStep from "@/components/NextStep";
 import FinalCTA from "@/components/FinalCTA";
 import Footer from "@/components/Footer";
 
@@ -11,8 +14,11 @@ export default function Home() {
       <Navbar />
       <main className="flex-1">
         <Hero />
+        <GoalSelector />
         <Journey />
+        <FutureVisualization />
         <Progress />
+        <NextStep />
         <FinalCTA />
       </main>
       <Footer />
